@@ -7,7 +7,11 @@ sites:
     url: https://dmscgadnigdcbcfkuscu.supabase.co/rest/v1/
     expectedStatusCodes:
       - 200
-      - 401  # 401 is expected for unauthenticated API calls
+      - 401
+  - name: PlaceLane Auth
+    url: https://dmscgadnigdcbcfkuscu.supabase.co/auth/v1/health
+    expectedStatusCodes:
+      - 200
 
 assignees:
   - skannur1
