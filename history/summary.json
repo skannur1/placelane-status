@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
-    "timeDay": 454,
-    "timeWeek": 454,
-    "timeMonth": 454,
-    "timeYear": 454,
+    "time": 380,
+    "timeDay": 380,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "PlaceLane Auth",
-    "url": "https://dmscgadnigdcbcfkuscu.supabase.co/auth/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/dmscgadnigdcbcfkuscu.supabase.co.ico",
-    "slug": "place-lane-auth",
-    "status": "down",
-    "uptime": "1.34%",
-    "uptimeDay": "1.34%",
-    "uptimeWeek": "1.34%",
-    "uptimeMonth": "1.34%",
-    "uptimeYear": "1.34%",
-    "time": 28,
-    "timeDay": 28,
-    "timeWeek": 28,
-    "timeMonth": 28,
-    "timeYear": 28,
-    "dailyMinutesDown": {
-      "2026-04-20": 0
-    }
   }
 ]
