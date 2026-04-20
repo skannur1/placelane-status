@@ -8,10 +8,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: PlaceLane Auth
-    url: https://dmscgadnigdcbcfkuscu.supabase.co/auth/v1/health
-    expectedStatusCodes:
-      - 200
 
 assignees:
   - skannur1
